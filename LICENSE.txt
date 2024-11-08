@@ -1,0 +1,10 @@
+By using this software, you agree to the following terms:
+	1.	The footer credit “Powered by JSocial” must remain intact and unmodified.
+	2.	Encryption methods used in the software are not to be altered.
+	3.	The privacy policy included with this software cannot be modified.
+	4.	Monetization of this software requires explicit written permission from JSocial.
+	5.	You may not publicly publish any site or service under JSocial branding.
+	6.	Do not link to any official APIs or extension stores, including but not limited to (*.api.jwn.social).
+	7.	The license enforcer embedded within this software must remain enabled and unchanged.
+
+Violation of any of these terms may result in site deactivation or, if the license enforcer has been removed or disabled, legal action may be pursued.
